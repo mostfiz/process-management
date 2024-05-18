@@ -25,17 +25,7 @@ npm install
 ### 3. Run Migrations:
 npx sequelize-cli db:migrate
 
-### 4. Summary:
-Install prerequisites: Node.js, npm, node-cron.\n
-Clone the repository: git clone <repository-url>.
-Install dependencies: npm install.
-Configure SQLite:
-Create .env file with database configuration.
-Create config/database.js for Sequelize configuration.
-Define models and associations: Ensure Sequelize models are correctly set up.
-Sync the database: Ensure models are synced with the SQLite database.
-Set up the Express server: Define routes and start the server.
-Start the server: node index.js.
+
 Test the endpoint: Use curl or Postman.
 
 
