@@ -26,7 +26,7 @@ npm install
 npx sequelize-cli db:migrate
 
 ### 4. Summary:
-Install prerequisites: Node.js, npm, node-cron.
+Install prerequisites: Node.js, npm, node-cron.\n
 Clone the repository: git clone <repository-url>.
 Install dependencies: npm install.
 Configure SQLite:
